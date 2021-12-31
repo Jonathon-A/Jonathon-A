@@ -4,7 +4,7 @@ I'm a student at Loughborough University studying Computer Science and Artificia
 
 On this page you can find many of my projects, some are more finished than others.
 
-### Coding
+### Programming
 - I'm fairly experienced with:
   - Java
   - Python
