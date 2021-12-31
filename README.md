@@ -1,7 +1,7 @@
 ### Hello, my name is Jonathon Axford 👋
 
 I'm a student at Loughborough University studying Computer Science and Artificial Intelligence.
-On this page you can find many of my projects, some are finished, and some are not.
+On this page you can find many of my projects, some are more finished than others.
 
 ### Coding
 - I'm fairly experienced with:
