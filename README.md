@@ -17,6 +17,7 @@ On this page you can find many of my projects, some are more finished than other
   - PHP
   - C/C++
  
+ LinkedIn: linkedin.com/in/jonathonaxford
 <!--
 **Jonathon-A/Jonathon-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
