@@ -8,7 +8,7 @@ On this page you can find many of my projects, some are more finished than other
 - I'm fairly experienced with:
   - Java
   - Python
-  - C# inside the Unity game engine
+  - C# alongside the Unity game engine
   - Haskell
 - I'm planning on learning:
   - HTML
