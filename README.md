@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hello, my name is Jonathon Axford 👋
 
+I'm a student at Loughborough University studying Computer Science and Artificial Intelligence.
+On this page you can find many of my projects, some are finished, and some are not.
+
+### Coding
+- I'm fairly experienced with:
+  - Java
+  - Python
+  - C# inside the Unity game engine
+  - Haskell
+- I'm planning on learning:
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - C/C++
+ 
 <!--
 **Jonathon-A/Jonathon-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
