@@ -5,8 +5,8 @@ I'm a student at Loughborough University studying Computer Science and Artificia
 On this page you can find many of my projects, some are more finished than others.
 
 ### Programming
+- I'm most experienced with Java:
 - I'm fairly experienced with:
-  - Java
   - Python
   - C# alongside the Unity game engine
   - Haskell
