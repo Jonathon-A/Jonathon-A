@@ -10,7 +10,7 @@ On this page you can find many of my projects, some are more finished than other
   - Python
   - C# alongside the Unity game engine
   - Haskell
-- I'm currently learning the following:
+- I'm currently learning:
   - HTML
   - CSS
   - JavaScript
