@@ -10,7 +10,7 @@ On this page you can find many of my projects, some are more finished than other
   - Python
   - C# alongside the Unity game engine
   - Haskell
-- I'm planning on learning the following soon (within the my second semester at Universtiy so before June 2022):
+- I'm currently learning the following:
   - HTML
   - CSS
   - JavaScript
