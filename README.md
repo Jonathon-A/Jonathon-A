@@ -6,15 +6,14 @@ On this page you can find many of my projects, some are more finished than other
 
 ### Programming
 - I'm most experienced with Java
-- I'm fairly experienced with:
+- I'm experienced with:
+  - Android studio with Kotlin
   - Python
   - C# alongside the Unity game engine
-  - Haskell
-- I'm currently learning:
-  - HTML
-  - CSS
-  - JavaScript
+  - HTML, CSS, and JavaScript
   - PHP
+- I'm fairly experienced with:
+  - Haskell
   - C/C++
  
  LinkedIn: linkedin.com/in/jonathonaxford
