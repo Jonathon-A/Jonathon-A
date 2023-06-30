@@ -7,7 +7,9 @@ On this page you can find many of my projects, some are more finished than other
 ### Programming
 - I'm most experienced with Java
 - I'm experienced with:
-  - Android studio with Kotlin
+  - Android
+  - Kotlin
+  - Java
   - Python
   - C# alongside the Unity game engine
   - HTML, CSS, and JavaScript
